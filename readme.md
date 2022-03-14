@@ -1,5 +1,4 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Three.js A scroll based ball rolling animation
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
